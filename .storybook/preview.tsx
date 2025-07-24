@@ -69,6 +69,6 @@ const preview: Preview = {
 
   decorators: globalDecorators,
   loaders: [mswLoader],
-  tags: ['autodocs']
+  //tags: ['autodocs']
 }
 export default preview
