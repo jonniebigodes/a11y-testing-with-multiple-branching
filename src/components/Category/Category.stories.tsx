@@ -10,7 +10,7 @@ const meta = {
     photoUrl:
       'https://images.pexels.com/photos/2147491/pexels-photo-2147491.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=550',
   },
-  tags: ['autodocs'],
+  //tags: ['autodocs'],
 } satisfies Meta<typeof Category>
 
 export default meta
